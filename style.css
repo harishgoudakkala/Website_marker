@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    min-width: 400px;
+}
+
+.txt_box{
+    width:100%;
+    padding: 5px 30px;
+    margin-bottom: 10px;
+    border-bottom-left-radius: 1000px;
+    border-top-right-radius: 1000px;
+    border-color: rgb(3, 175, 3);
+}
+
+button{
+    background-color: lightgreen;
+    border: none;
+    padding: 6px 15px;
+    margin-left: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 1000px;
+}
+
+#clr_btn{
+    background-color: white;
+    color: rgb(9, 148, 9);
+    border: 1px solid black;
+    margin-left:5px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 2px;
+    margin:0;
+    
+}
+
+li a{
+    color: rgb(63, 151, 4)
+}
+
+li{
+    margin-bottom: 5px;
+}
